@@ -1,8 +1,6 @@
 meta:
-  url: https://github.com/alisyahidin
   title: Intro to web component
   description: Presentation deck intro about web component
-  siteName: github.com
 slide:
   loop: false
   ui:
