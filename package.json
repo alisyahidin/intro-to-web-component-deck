@@ -1,0 +1,17 @@
+{
+  "name": "intro-to-web-component",
+  "version": "1.0.0",
+  "scripts": {
+    "init": "fusuma init",
+    "dev": "fusuma start",
+    "start": "fusuma start-prod",
+    "build": "fusuma build",
+    "pdf": "fusuma pdf"
+  },
+  "author": "alisyahidin <alisyahidin.me@gmail.com> (https://alisyahidin.vercel.app)",
+  "license": "MIT",
+  "dependencies": {
+    "fusuma": "^2.8.4",
+    "react": "^18.2.0"
+  }
+}
