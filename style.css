@@ -55,3 +55,19 @@ h2 {
 .link {
   color: var(--sub-color);
 }
+
+.shadow-dom > .slide-internal-box {
+  gap: 28px;
+}
+
+.shadow-dom > .slide-internal-box > h5 {
+  margin-top: 12px;
+}
+
+.spesifications h5 {
+  margin-bottom: 8px;
+}
+
+.browser-support img {
+  width: 70%;
+}

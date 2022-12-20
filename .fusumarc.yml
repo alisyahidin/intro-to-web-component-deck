@@ -7,10 +7,11 @@ slide:
     sidebar: true
     vertical: false
     pagination: bullets
-    effect: # fade | cube | flip
   code:
-    # https://prismjs.com/
-    plugins: []
-    theme: tomorrow # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
+    theme: default # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
+    languages:
+      - javascript
+      - html
 extends:
   css: style.css
+  js: index.js
